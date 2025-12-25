@@ -1,0 +1,3 @@
+# Fixtures & Typen
+
+QA-perspektive.
