@@ -39,7 +39,8 @@ export const guestUser: User = {
 
 examples/test-project/tests/userService.test.ts 
 ```
-import { describe, it, expect } from 'vitest'; import { adminUser, guestUser } from './fixtures/userFixtures'; 
+import { describe, it, expect } from 'vitest';
+import { adminUser, guestUser } from './fixtures/userFixtures';
 import { canEdit } from '../src/userService';
 
 describe('UserService – canEdit', () => { 
