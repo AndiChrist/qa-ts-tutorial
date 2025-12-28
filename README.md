@@ -1,3 +1,3 @@
-# QA-first TypeScript Tutorial
+QA-first TypeScript Tutorial
 
 Dieses Tutorial ist QA-first aufgebaut, TypeScript wird als Werkzeug genutzt.

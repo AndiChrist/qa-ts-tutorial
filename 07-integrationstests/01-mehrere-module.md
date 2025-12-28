@@ -10,7 +10,7 @@ In diesem Kapitel lernst du:
 
 ## Motivation
 
-Unit-Tests testen einzelne Bausteine. Integrationstests prüfen, ob diese Bausteine zusammen funktionieren.
+Unit-Tests testen einzelne Bausteine. Integrationstests prüfen, **ob diese Bausteine zusammen funktionieren**.
 
 > Merksatz: Integrationstests finden Fehler, die Unit-Tests nicht sehen können.
 
